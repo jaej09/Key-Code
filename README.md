@@ -1,4 +1,4 @@
-# KeyCode
+# Key Code
 
 Get JavaScript Event Key Codes
 
